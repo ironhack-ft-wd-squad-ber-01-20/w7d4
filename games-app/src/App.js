@@ -30,6 +30,7 @@ const Navbar = () => {
   return (
     <nav>
       <Link to="/">Home</Link>
+      <Link to="/games">Games</Link>
       <Link to="/profile">Profile</Link>
     </nav>
   );
